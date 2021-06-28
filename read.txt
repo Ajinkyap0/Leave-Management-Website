@@ -1,0 +1,7 @@
+admin:
+admin@gmail.com
+Test@12345
+
+user
+ajp@gmail.com	
+Test@12345
